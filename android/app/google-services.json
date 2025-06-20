@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "475786320233",
+    "project_id": "searchcare-ce4b7",
+    "storage_bucket": "searchcare-ce4b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475786320233:android:2b78bd875a42110af685f8",
+        "android_client_info": {
+          "package_name": "com.example.search_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8g6dkX19T12AQa4tPtQeMweK6OKet2TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475786320233:android:714f2399537c6d67f685f8",
+        "android_client_info": {
+          "package_name": "com.example.smart_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8g6dkX19T12AQa4tPtQeMweK6OKet2TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
